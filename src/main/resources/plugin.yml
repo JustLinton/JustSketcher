@@ -1,0 +1,6 @@
+name: JustSketcher
+version: ${project.version}
+main: mistyforest.justsketcher.JustSketcher
+api-version: 1.16
+prefix: JustSketcher
+authors: [ LintonC ]
